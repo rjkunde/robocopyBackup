@@ -5,9 +5,9 @@ Windows robocopy backup script with email alerting
 blat.exe command line email tool, stunnel, robocopy.exe, and optional log files to write to.
 
 ### Installation
-1)
-2)
-3)
+1) Download blat.exe
+2) Download stunel
+3) Download robocopyBackup.bat from this repository
 4)
 5)
 
